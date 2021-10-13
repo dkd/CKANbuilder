@@ -19,10 +19,12 @@
     "buildtool"
   ],
   "author": "goldi42",
-  "contributors": [{
-    "name": "xellos866",
-     "url": "https://github.com/xellos866"
-  }],
+  "contributors": [
+    {
+      "name": "xellos866",
+      "url": "https://github.com/xellos866"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/goldi42/ckan_builder/issues"
@@ -32,12 +34,12 @@
     "commander": "^2.11.0",
     "fs-extra": "^3.0.1",
     "handlebars": "^4.7.6",
-    "inquirer": "^3.2.1",
+    "inquirer": "^8.2.0",
     "shelljs": "^0.7.8",
-    "tar": "^4.4.8",
+    "tar": "^4.4.15",
     "winston": "^2.3.1"
   },
   "devDependencies": {
-    "eslint": "^4.19.1"
+    "eslint": "^8.0.0"
   }
 }
